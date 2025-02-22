@@ -1,2 +1,13 @@
 selenium
 webdriver-manager
+pandas
+beautifulsoup4
+nltk
+spacy
+wordcloud
+matplotlib
+seaborn
+plotly
+gensim
+scikit-learn
+textblob

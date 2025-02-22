@@ -46,7 +46,7 @@ def scrape_vogue(num_pages=3):
     return pd.DataFrame(articles)
 
 # Run scraper
-df_vogue = scrape_vogue(3)
+df_vogue = scrape_vogue(10)
 
 # Close WebDriver
 driver.quit()
